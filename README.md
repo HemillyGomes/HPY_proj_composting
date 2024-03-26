@@ -1,7 +1,7 @@
 # Projeto de Compostagem
 
 O projeto será baseado em uma empresa de compostagem.
-Nome do projeto: ***_Sistema de Compostagem HPY_**
+Nome do projeto: **_Sistema de Compostagem HPY_**
 
 **Cenário:** Cadastro de Colaboradores e Controle de Entrada e Saída de Produtos Orgânicos. 
 
